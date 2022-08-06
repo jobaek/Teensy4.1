@@ -1,0 +1,6 @@
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_FreeRTOS\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_FreeRTOS\drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_FreeRTOS\drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_FreeRTOS\drivers/fsl_iomuxc.h:1225:20:IOMUXC_SetPinMux	24	static
+../board/pin_mux.c:30:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:49:6:BOARD_InitPins	24	static
