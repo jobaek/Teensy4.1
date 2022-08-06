@@ -1,0 +1,7 @@
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_LEDToggle\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_LEDToggle\CMSIS/core_cm7.h:2637:26:SysTick_Config	16	static
+D:\Work\NXPWork\Teensy4.1\MIMXRT1062_Project_LEDToggle\drivers/fsl_gpio.h:160:20:GPIO_PortToggle	16	static
+../source/MIMXRT1062_Project_LEDToggle.c:49:6:SysTick_Handler	4	static
+../source/MIMXRT1062_Project_LEDToggle.c:54:6:delay	24	static
+../source/MIMXRT1062_Project_LEDToggle.c:61:10:millis	4	static
+../source/MIMXRT1062_Project_LEDToggle.c:69:5:main	16	static
